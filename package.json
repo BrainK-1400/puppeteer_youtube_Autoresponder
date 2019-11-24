@@ -1,0 +1,15 @@
+{
+  "name": "youtubeproject",
+  "version": "1.0.0",
+  "description": "youtube_auto_reply",
+  "main": "example.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BrainK_1400",
+  "license": "ISC"
+}
